@@ -1,0 +1,2 @@
+With limited knoledge in programming intergrating this direct with BS+ is a challenge, bs+ would need a websocket server that can send codes to both chat and request manager, so i will at somepoint be swapping the interaction to SRM V2 as it uses websockets.
+when that change happens i can set streamerbot to send all needed data in to SRM V2 so names are used instead  and you dont need note tags (current), twitch wont be needed for anything but chat should you want to view it, it would also enable the streamer to controll who can request songs.
