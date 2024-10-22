@@ -1,11 +1,11 @@
-****************************************
-*  BSR Injector and TTS Voice system   *
-*      ___ __  __    ___ ________      *
-*     | __|  \/  |/\|_  )__ /__ /      *
-*     | _|| |\/| >  </ / |_ \|_ \      *
-*     |___|_|  |_|\//___|___/___/      *
-*Created by Emstar233 And Husband (V 2)*
-****************************************
+******************************************
+**  BSR Injector and TTS Voice system   **
+**      ___ __  __    ___ ________      **
+**     | __|  \/  |/\|_  )__ /__ /      **
+**     | _|| |\/| >  </ / |_ \|_ \      **
+**     |___|_|  |_|\//___|___/___/      **
+**Created by Emstar233 And Husband (V 2)**
+******************************************
 
 Place this folder wherever you like, create a shortcut to the index file and place with your streaming programs so they are all together, name it (the shortcut) whatever you like.
 
