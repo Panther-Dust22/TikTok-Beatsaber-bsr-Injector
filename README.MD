@@ -28,4 +28,5 @@ Beatsaber Plus 6.41
 WebSocket-Sharp 1.0.4
 
 
+i will not be releasing the scource code for this yet so please dont ask!
 
