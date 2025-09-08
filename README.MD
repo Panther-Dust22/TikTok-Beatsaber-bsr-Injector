@@ -1,39 +1,26 @@
-```
-****************************************
-*  BSR Injector and TTS Voice system   *
-*      ___ __  __    ___ ________      *
-*     | __|  \/  |/\|_  )__ /__ /      *
-*     | _|| |\/| >  </ / |_ \|_ \      *
-*     |___|_|  |_|\//___|___/___/      *
-*Created by Emstar233 And Husband (V 2)*
-****************************************
-```
+✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
+     ✨           BSR Injector Plugin            ✨
+     ✨       ___ __  __    ___ ________         ✨
+     ✨      | __|  \/  |/\|_  )__ /__ /         ✨
+     ✨      | _|| |\/| >  </ / |_ \|_ \         ✨
+     ✨      |___|_|  |_|\//___|___/___/         ✨
+     ✨💫 Created by Emstar233 & Husband (V2) 💫✨
+✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 
-Place this folder wherever you like, create a shortcut to the index file and place with your streaming programs so they are all together, name it (the shortcut) whatever you like.
+Thanks for downloading our BSR Injector, we hope this helps you a great deal with your steams
 
-Make sure you have TikFinity and BeatsaberPlus installed
+Place folders in Beatsaber directory
 
-Launch Tikfinity
+Make sure you have Beatsaber plus and TikFinity installed
+Install Websocket-Sharp mod from bsmanager or other source
+Run TikFinity before launching game
 
-open the web page using either your shortcut or the index file.
+setup beatsaber commands list in beatsaber plus as you would from twitch (only mods can use this command etc)
 
-on the left pane click connect, you should get a green tick
+ENJOY! :)
 
-On the right pane click the link to get your Oauth code
-
-tick the box to allow you to enter your details
-
-click generate and copy the code given into the bsr Injector page without the "Oauth:" (just numbers and letters)
-
-in the username box, enter your Twitch username (last part of the web address to your page twitch.tv/YOURUSERNAME)
-
-put this same name in the Channel box and then press save
-
-refresh the page, the left side should auto connect and on the right just tick the box.
-
-Your all done, all messages will be passed from TikTok to Twitch to be picked up by BS+.
-
-the !open and !close queue commands can ONLY be used my moderators, this is codded into my script so no need to change anything else, all song requests made will be auto added to your queue as long as its open and the requester will be named (hover over a song to see who requested it) users can find songs at beatsaver.com, they can copy the code using the twitch icon and paste it into your TikTok chat but they MUST remove the "!" (explanation mark) at the front for it to work, some codes get blocked by a the TikTok filter, a user just needs to add a word beside it for it to send, for example "bsr 76e4r potato".
-
-Enjoy
-Emstar233 & Husband
+ONLY TESTED WITH VERSIONS BELOW
+Beatsaber 1.40.8
+Beatsaber 1.40.6
+Beatsaber Plus 6.41
+WebSocket-Sharp 1.0.4
