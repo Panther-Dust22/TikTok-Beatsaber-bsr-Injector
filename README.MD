@@ -10,6 +10,8 @@
 ```
 get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TTS-BSR-Injector
 
+Join our Discord https://discord.com/invite/PVvv8M5e83
+
 Thanks for downloading our BSR Injector, we hope this helps you a great deal with your steams
 
 Place folders in Beatsaber directory
@@ -30,5 +32,6 @@ WebSocket-Sharp 1.0.4
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
