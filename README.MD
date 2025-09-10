@@ -8,6 +8,7 @@
      ✨💫 Created by Emstar233 & Husband (V3) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 ```
+get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TTS-BSR-Injector
 
 Thanks for downloading our BSR Injector, we hope this helps you a great deal with your steams
 
@@ -29,4 +30,5 @@ WebSocket-Sharp 1.0.4
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
