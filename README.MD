@@ -12,13 +12,15 @@ get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TT
 
 Join our Discord https://discord.com/invite/PVvv8M5e83
 
-Thanks for downloading our BSR Injector, we hope this helps you a great deal with your steams
+Thanks for downloading our official BSR Injector (BETA), we hope this helps you a great deal with your steams
 
 Place folders in Beatsaber directory
 
 Make sure you have Beatsaber plus and TikFinity installed
-Install Websocket-Sharp mod from bsmanager or other source
 Run TikFinity before launching game
+
+Custom settings inside Beatsaber + panel, you can turn off posts for subs, gifts, follows and shares.
+you can either use default colours of Beatsaber+ or select your own, just toggle the custom colours switch and pick
 
 setup beatsaber commands list in beatsaber plus as you would from twitch (only mods can use this command etc)
 
@@ -28,10 +30,10 @@ ONLY TESTED WITH VERSIONS BELOW
 Beatsaber 1.40.8
 Beatsaber 1.40.6
 Beatsaber Plus 6.41
-WebSocket-Sharp 1.0.4
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
