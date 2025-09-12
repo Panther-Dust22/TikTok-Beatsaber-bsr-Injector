@@ -5,7 +5,7 @@
      ✨      | __|  \/  |/\|_  )__ /__ /         ✨
      ✨      | _|| |\/| >  </ / |_ \|_ \         ✨
      ✨      |___|_|  |_|\//___|___/___/         ✨
-     ✨💫 Created by Emstar233 & Husband (V3) 💫✨
+     ✨💫 Created by Emstar233 & Husband (V3.5) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 ```
 get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TTS-BSR-Injector
@@ -33,6 +33,7 @@ Beatsaber Plus 6.41
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
