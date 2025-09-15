@@ -1,7 +1,11 @@
 Latest Update
+
 Removed unnecessary test code
+
 Improved Emoji handling (now tracks top 200 used and caches them on startup instead of loading in 4000)
+
 Fixed setting switch to turn module on/off effectively
+
 Fixed info page spelling
 
 ```
@@ -39,6 +43,7 @@ Beatsaber Plus 6.41
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
