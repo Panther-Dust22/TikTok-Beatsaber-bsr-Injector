@@ -1,3 +1,9 @@
+Latest Update
+Removed unnecessary test code
+Improved Emoji handling (now tracks top 200 used and caches them on startup instead of loading in 4000)
+Fixed setting switch to turn module on/off effectively
+Fixed info page spelling
+
 ```
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
      ✨           BSR Injector Plugin            ✨
@@ -5,7 +11,7 @@
      ✨      | __|  \/  |/\|_  )__ /__ /         ✨
      ✨      | _|| |\/| >  </ / |_ \|_ \         ✨
      ✨      |___|_|  |_|\//___|___/___/         ✨
-     ✨💫 Created by Emstar233 & Husband (V3.5) 💫✨
+     ✨💫 Created by Emstar233 & Husband (V3.6) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 ```
 get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TTS-BSR-Injector
@@ -14,7 +20,7 @@ Join our Discord https://discord.com/invite/PVvv8M5e83
 
 Thanks for downloading our official BSR Injector (BETA), we hope this helps you a great deal with your steams
 
-Place folders in Beatsaber directory
+Place BOTH folders in Beatsaber directory (userdata contains 4k of emojis for viewers to use, these include android compatible ones)
 
 Make sure you have Beatsaber plus and TikFinity installed
 Run TikFinity before launching game
@@ -33,6 +39,7 @@ Beatsaber Plus 6.41
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
