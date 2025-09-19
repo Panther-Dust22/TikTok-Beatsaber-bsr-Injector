@@ -18,7 +18,7 @@ Fixed info page spelling
      ✨💫 Created by Emstar233 & Husband (V3.6) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 ```
-get this with our TTS system at https://github.com/Panther-Dust22/TikTok-Live-TTS-BSR-Injector
+get our TikTok Live TTS here https://github.com/Panther-Dust22/TikTok-Live-TTS
 
 Join our Discord https://discord.com/invite/PVvv8M5e83
 
@@ -43,6 +43,7 @@ Beatsaber Plus 6.41
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
