@@ -1,6 +1,6 @@
 Latest Update
 
-3.7 Now available in [Releases](https://github.com/Panther-Dust22/TikTok-Beatsaber-bsr-Injector/releases)
+3.8 Now available in [Releases](https://github.com/Panther-Dust22/TikTok-Beatsaber-bsr-Injector/releases)
 
 Fixed crash/hang issue on song download and emote usage  
 Added overlay screen for stream so users can see when bsr codes are added or declined, also now allows the bsrhelp command  
@@ -13,7 +13,7 @@ code housekeeping, Emotes are now cached correctly so there is no more crashing,
      ✨      | __|  \/  |/\|_  )__ /__ /         ✨
      ✨      | _|| |\/| >  </ / |_ \|_ \         ✨
      ✨      |___|_|  |_|\//___|___/___/         ✨
-     ✨💫 Created by Emstar233 & Husband (V3.7) 💫✨
+     ✨💫 Created by Emstar233 & Husband (V3.8) 💫✨
 ✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨⭐✨
 ```
 get our TikTok Live TTS here https://github.com/Panther-Dust22/TikTok-Live-TTS
@@ -42,6 +42,7 @@ Beatsaber Plus 6.41
 
 
 i will not be releasing the scource code for this yet so please dont ask!
+
 
 
 
