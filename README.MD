@@ -35,14 +35,16 @@ setup beatsaber commands list in beatsaber plus as you would from twitch (only m
 
 ENJOY! :)
 
-ONLY TESTED WITH VERSIONS BELOW
+ONLY TESTED WITH VERSIONS BELOW  
+Beatsaber 1.42.0
 Beatsaber 1.40.8
 Beatsaber 1.40.6
 Beatsaber Plus 6.41
+Beatsaber Plus 6.43
 
 
-i will not be releasing the scource code for this yet so please dont ask!
-
+i will not be releasing the scource code for this project yet so please dont ask!  
+I have my reason and is as follows, I'm trying to work out the TikTok dev API system, so that this mod and others of mine can be used without Tikfinity, once i get that nailed down then i will release the source code!
 
 
 
